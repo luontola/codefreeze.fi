@@ -1,5 +1,5 @@
 ---
-layout: 2018
+layout: default
 title: Codefreeze
 tagline: Prepare for your last commit
 when: Sat Jan 11th - Sat 18th 2020
